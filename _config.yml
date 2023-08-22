@@ -1,9 +1,7 @@
 title: Stuart Mills # your name (or website title) here
 subtitle: Data Scientist | Researcher | Data Analyst | AI Specialist # Tagline under your name
 logo: "images/headshot.jpg?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  As a data-driven professional with a solid educational foundation in Astrophysics and a Master's degree in Data Science, I have honed my analytical and research skills to excel in the realm of data science. Over the course of my career, I have leveraged my expertise to provide valuable insights as a Data Analyst, Data Consultant, and currently, as an AI/Data Science Researcher. <br> 
-  
+description: > # your text below (remove <br> elements if you don't need line breaks)  
   I am passionate about harnessing the power of data to solve complex problems and drive innovation. With a strong background in both astrophysics and data science, I bring a unique perspective to the field and thrive in dynamic, research-oriented environments. I look forward to contributing my expertise to your data science endeavors.
 
   <strong>Professional Experience:</strong>
