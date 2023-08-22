@@ -1,9 +1,28 @@
 title: Stuart Mills # your name (or website title) here
+subtitle: Data Scientist | Researcher | Data Analyst | AI Specialist # Tagline under your name
 logo: "images/headshot.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  As a data-driven professional with a solid educational foundation in Astrophysics and a Master's degree in Data Science,<br>
-  I have honed my analytical and research skills to excel in the realm of data science. Over the course of my career, I have <br>
-  leveraged my expertise to provide valuable insights as a Data Analyst, Data Consultant, and currently, as an AI/Data Science Researcher.
+  As a data-driven professional with a solid educational foundation in Astrophysics and a Master's degree in Data Science, I have honed my analytical and research skills to excel in the realm of data science. Over the course of my career, I have leveraged my expertise to provide valuable insights as a Data Analyst, Data Consultant, and currently, as an AI/Data Science Researcher. <br> 
+  
+  I am passionate about harnessing the power of data to solve complex problems and drive innovation. With a strong background in both astrophysics and data science, I bring a unique perspective to the field and thrive in dynamic, research-oriented environments. I look forward to contributing my expertise to your data science endeavors.
+
+  <strong>Professional Experience:</strong>
+
+  AI/Data Science Research Fellow | Monash University
+
+      Participating in cutting-edge research projects focused on AI and data science, contributing to advancements in many multi-disciplinary fields.
+      Collaborating with interdisciplinary teams to develop innovative machine learning models and data-driven solutions.
+
+  Data Consultant | Fusion5
+
+      Consulted with clients to identify data-related challenges and opportunities, providing tailored strategies for data-driven decision-making.
+      Contributed to data integration and cleansing efforts, ensuring data quality and integrity.
+
+  Data Analyst | Little Real Estate
+
+      Conducted comprehensive data analysis, extracting actionable insights to support business strategies.
+      Produced clear and compelling data visualizations and reports for stakeholders.
+
   <a href="https://www.linkedin.com/in/stuartgmills/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
