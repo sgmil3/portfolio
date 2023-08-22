@@ -1,10 +1,9 @@
 title: Stuart Mills # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+logo: "images/headshot.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
-  <br><br>
-  Second description 
-  <br><br>
+  As a data-driven professional with a solid educational foundation in Astrophysics and a Master's degree in Data Science,<br>
+  I have honed my analytical and research skills to excel in the realm of data science. Over the course of my career, I have <br>
+  leveraged my expertise to provide valuable insights as a Data Analyst, Data Consultant, and currently, as an AI/Data Science Researcher.
   <a href="https://www.linkedin.com/in/stuartgmills/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
